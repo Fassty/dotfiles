@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/fassty/Devel/programming/c++/recodex_assignments/cpp-life'
+let g:netrw_dirhist_3='/home/fassty/Devel/AI/deep_learning/npfl122_all/npfl122/labs/World-Models-TensorFlow/stateless_agent_v2'
+let g:netrw_dirhist_2='/home/fassty/Devel/school/compilers/student-mikulap4/test'
+let g:netrw_dirhist_1='/home/fassty/.config/nvim'
+let g:netrw_dirhist_0='/etc/sddm.conf.d'
+let g:netrw_dirhist_9='/home/fassty/Devel/machine_learning/IML/hw2/.git'
+let g:netrw_dirhist_8='/home/fassty/Devel/machine_learning/MLFD/assignments/completed'
+let g:netrw_dirhist_7='/home/fassty/.config/neofetch'
+let g:netrw_dirhist_6='/usr'
+let g:netrw_dirhist_5='/etc/systemd/network'
